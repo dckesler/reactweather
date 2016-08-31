@@ -1,0 +1,2 @@
+- Make a list of cities
+- Render each city with some weather info
